@@ -120,6 +120,9 @@ Next, we'll fine-tune our model's hyperparameters to boost accuracy, ensuring we
 
 We’ll also implement robust cross-validation techniques alongside ensemble methods, allowing us to blend multiple models for superior predictive power, reducing the risk of overfitting. Finally, let's embark on an exciting journey through additional visualizations and model interpretability techniques, which together will not only illuminate the findings but also empower stakeholders to grasp the underlying patterns and make informed decisions. Each step we take will add depth and clarity to our analysis, transforming raw data into compelling narratives.
 
+### **MODEL ACCURACY**
+In an exciting face-off of algorithms, the **Random Forest model** edged out its competitor with a notable **accuracy of 79%**. This powerhouse employs a multitude of decision trees to make predictions, showcasing its strength in handling complex datasets. Meanwhile, **the XGBoost model**, known for its high performance and efficiency, delivered a respectable **accuracy of 78%**. While XGBoost remains a strong contender with its impressive gradient boosting technique, it couldn't quite surpass the Random Forest this time. It’s fascinating to see how these two algorithms offer different strengths in the world of data science!
+
 ### **References**
 Kaggle Titanic: Machine Learning from Disaster
 
