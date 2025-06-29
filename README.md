@@ -128,4 +128,6 @@ Kaggle Titanic: Machine Learning from Disaster
 
 scikit-learn documentation
 
-XGBoost documentation        
+XGBoost documentation       
+
+Kaggle lINK : https://www.kaggle.com/code/tanyashakya/prediction-of-titanic-survivors
